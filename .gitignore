@@ -1,0 +1,17 @@
+# Compilação e artefatos
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.pdb
+
+# Pastas de saída
+output/
+VsConsole/output/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
